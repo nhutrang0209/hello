@@ -1,0 +1,4 @@
+﻿  GSPlay.cpp
+C:\Users\84899\Documents\GL\JumJump\Glintern\TrainingFramework\src\GameStates\GSPlay.cpp(89,50): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\84899\Documents\GL\JumJump\Glintern\TrainingFramework\src\GameStates\GSPlay.cpp(97,51): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  TrainingFramework.vcxproj -> C:\Users\84899\Documents\GL\JumJump\Glintern\BIN-Nvidia\TrainingFramework.exe
